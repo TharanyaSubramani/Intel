@@ -1,2 +1,3 @@
 # Intel
-My first repositery
+
+This is my first INTEL UNNATI INDUSTRIAL TRAINING PROJECT titled “Introduction to GenAI and Simple LLM Inference on CPU and finetuning of LLM Model to create a Custom Chatbot”.
